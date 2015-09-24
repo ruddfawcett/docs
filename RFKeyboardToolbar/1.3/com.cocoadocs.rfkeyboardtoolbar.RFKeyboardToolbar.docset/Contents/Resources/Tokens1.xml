@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFKeyboardToolbar.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFKeyboardToolbar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFKeyboardToolbar/setButtons:</TokenIdentifier>
+			<Abstract type="html">The buttons of the toolbar.</Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *buttons</Declaration>
+			
+			
+			<Anchor>//api/name/buttons</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFKeyboardToolbar/buttons</TokenIdentifier>
+			<Abstract type="html">The buttons of the toolbar.</Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *buttons</Declaration>
+			
+			
+			<Anchor>//api/name/buttons</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFKeyboardToolbar/buttons</TokenIdentifier>
+			<Abstract type="html">The buttons of the toolbar.</Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *buttons</Declaration>
+			
+			
+			<Anchor>//api/name/buttons</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFKeyboardToolbar/toolbarWithButtons:</TokenIdentifier>
+			<Abstract type="html">Creates a new toolbar.</Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>+ (instancetype)toolbarWithButtons:(id)buttons</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>buttons</Name>
+					<Abstract type="html">The buttons to draw in the view.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">A RFKeyboardToolbar.</Abstract></ReturnValue>
+			<Anchor>//api/name/toolbarWithButtons:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFKeyboardToolbar/toolbarViewWithButtons:</TokenIdentifier>
+			<Abstract type="html">Creates a new toolbar.</Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>+ (instancetype)toolbarViewWithButtons:(id)buttons</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>buttons</Name>
+					<Abstract type="html">The buttons to draw in the view.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">A RFKeyboardToolbar.</Abstract></ReturnValue>
+			<Anchor>//api/name/toolbarViewWithButtons:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFKeyboardToolbar/setButtons:animated:</TokenIdentifier>
+			<Abstract type="html">Sets the buttons for the toolbar.</Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>- (void)setButtons:(id)buttons animated:(id)animated</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>buttons</Name>
+					<Abstract type="html">Sets the buttons for the toolbar.</Abstract>
+				</Parameter><Parameter>
+					<Name>animated</Name>
+					<Abstract type="html">Whether or not it should be animated.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/setButtons:animated:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

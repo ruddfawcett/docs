@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/ASTransitMonitorDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/ASTransitMonitorDelegate</TokenIdentifier>
+			<Abstract type="html">@enum ASUnitType Unit types that allow you to convert meters per second.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+            
+			
+			<NodeRef refid="16"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASTransitMonitorDelegate/transitMonitor:didChangeTransitState:</TokenIdentifier>
+			<Abstract type="html">Detects if the transit state has changed for the user.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)transitMonitor:(ASTransitMonitor *)transitMonitor didChangeTransitState:(ASTransitState)transitState</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>transitMonitor</Name>
+					<Abstract type="html">An ASTransitMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>transitState</Name>
+					<Abstract type="html">The State of transit that has been detected, of ASTransitState.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/transitMonitor:didChangeTransitState:</Anchor>
+            <NodeRef refid="16"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASTransitMonitorDelegate/transitMonitor:didChangeSpeed:oldSpeed:</TokenIdentifier>
+			<Abstract type="html">Detects if the user has sped up or slowed down.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)transitMonitor:(ASTransitMonitor *)transitMonitor didChangeSpeed:(CGFloat)newSpeed oldSpeed:(CGFloat)oldSpeed</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>transitMonitor</Name>
+					<Abstract type="html">An ASTransitMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>oldSpeed</Name>
+					<Abstract type="html">The old speed that the newSpeed changed from.</Abstract>
+				</Parameter><Parameter>
+					<Name>speed</Name>
+					<Abstract type="html">The current speed of the device.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/transitMonitor:didChangeSpeed:oldSpeed:</Anchor>
+            <NodeRef refid="16"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASTransitMonitorDelegate/transitMonitor:didAccelerationChange:</TokenIdentifier>
+			<Abstract type="html">Detects if the user has started shaking the device.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)transitMonitor:(ASTransitMonitor *)transitMonitor didAccelerationChange:(CMAcceleration)acceleration</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>transitMonitor</Name>
+					<Abstract type="html">An ASTransitMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>acceleration</Name>
+					<Abstract type="html">The acceleration of the device.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/transitMonitor:didAccelerationChange:</Anchor>
+            <NodeRef refid="16"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

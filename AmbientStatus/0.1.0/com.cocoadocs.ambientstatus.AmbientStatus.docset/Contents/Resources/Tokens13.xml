@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSString+Convenience.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSString(Convenience)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSString+Convenience.h</DeclaredIn>
+            
+			
+			<NodeRef refid="13"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSString/floatToPercentString:</TokenIdentifier>
+			<Abstract type="html">Converts a CGFloat to a string with percentage sign and non-decimal value.</Abstract>
+			<DeclaredIn>NSString+Convenience.h</DeclaredIn>
+			
+			<Declaration>+ (NSString *)floatToPercentString:(CGFloat)originalFloat</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>originalFloat</Name>
+					<Abstract type="html">The original CGFloat that will be reformatted</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSString     The string that will be returned.  Ex. 0.3 (put in) -&gt; 30% (put out).</Abstract></ReturnValue>
+			<Anchor>//api/name/floatToPercentString:</Anchor>
+            <NodeRef refid="13"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSString/batteryStateToString:</TokenIdentifier>
+			<Abstract type="html">Takes a UIDeviceBatteryState and converts it to a string.  Added more for convenience of demo,
+but may come in handy for some.</Abstract>
+			<DeclaredIn>NSString+Convenience.h</DeclaredIn>
+			
+			<Declaration>+ (NSString *)batteryStateToString:(UIDeviceBatteryState)batteryState</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>batteryState</Name>
+					<Abstract type="html">The UIDeviceBatteryState to be converted.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSString    The string that will be returned.  Ex. UIDeviceBatteryStateFull (put in) -&gt; Full (put out).</Abstract></ReturnValue>
+			<Anchor>//api/name/batteryStateToString:</Anchor>
+            <NodeRef refid="13"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSString/transitStateToString:</TokenIdentifier>
+			<Abstract type="html">Takes a ASTransitState and converts it to a string.  Added more for convenience of demo,
+but may come in handy for some.</Abstract>
+			<DeclaredIn>NSString+Convenience.h</DeclaredIn>
+			
+			<Declaration>+ (NSString *)transitStateToString:(ASTransitState)transitState</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>transitState</Name>
+					<Abstract type="html">The ASTransitState to be converted.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSString    The string that will be returned.  Ex. ASTransitStateWalking (put in) -&gt; Walking (put out).</Abstract></ReturnValue>
+			<Anchor>//api/name/transitStateToString:</Anchor>
+            <NodeRef refid="13"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

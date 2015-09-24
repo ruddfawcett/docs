@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFGravatarImageView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFGravatarImageView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setEmail:</TokenIdentifier>
+			<Abstract type="html">User email - you must set this!</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSString *email</Declaration>
+			
+			
+			<Anchor>//api/name/email</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/email</TokenIdentifier>
+			<Abstract type="html">User email - you must set this!</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSString *email</Declaration>
+			
+			
+			<Anchor>//api/name/email</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/email</TokenIdentifier>
+			<Abstract type="html">User email - you must set this!</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSString *email</Declaration>
+			
+			
+			<Anchor>//api/name/email</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setPlaceholder:</TokenIdentifier>
+			<Abstract type="html">A placeholder image while SDWebImage fetches the gravatar.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) UIImage *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/placeholder</TokenIdentifier>
+			<Abstract type="html">A placeholder image while SDWebImage fetches the gravatar.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) UIImage *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/placeholder</TokenIdentifier>
+			<Abstract type="html">A placeholder image while SDWebImage fetches the gravatar.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) UIImage *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setSize:</TokenIdentifier>
+			<Abstract type="html">The size of the gravatar up to 2048. All gravatars are squares, so you will get 2048x2048.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/size</TokenIdentifier>
+			<Abstract type="html">The size of the gravatar up to 2048. All gravatars are squares, so you will get 2048x2048.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/size</TokenIdentifier>
+			<Abstract type="html">The size of the gravatar up to 2048. All gravatars are squares, so you will get 2048x2048.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setRating:</TokenIdentifier>
+			<Abstract type="html">Rating (G, PG, R, X) of gravatar to allow, helpful for kid-friendly apps.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) RFGravatarRating rating</Declaration>
+			
+			
+			<Anchor>//api/name/rating</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/rating</TokenIdentifier>
+			<Abstract type="html">Rating (G, PG, R, X) of gravatar to allow, helpful for kid-friendly apps.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) RFGravatarRating rating</Declaration>
+			
+			
+			<Anchor>//api/name/rating</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/rating</TokenIdentifier>
+			<Abstract type="html">Rating (G, PG, R, X) of gravatar to allow, helpful for kid-friendly apps.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) RFGravatarRating rating</Declaration>
+			
+			
+			<Anchor>//api/name/rating</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setDefaultGravatar:</TokenIdentifier>
+			<Abstract type="html">If email doesn&apos;t have a gravatar, use one of these... http://bit.ly/1cCmtdb</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) RFDefaultGravatar defaultGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/defaultGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/defaultGravatar</TokenIdentifier>
+			<Abstract type="html">If email doesn&apos;t have a gravatar, use one of these... http://bit.ly/1cCmtdb</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) RFDefaultGravatar defaultGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/defaultGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/defaultGravatar</TokenIdentifier>
+			<Abstract type="html">If email doesn&apos;t have a gravatar, use one of these... http://bit.ly/1cCmtdb</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) RFDefaultGravatar defaultGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/defaultGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setForceDefault:</TokenIdentifier>
+			<Abstract type="html">Forces a default gravatar, whether or not email has gravatar.  Remember to set defaultGravatar too!</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) BOOL forceDefault</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/forceDefault</TokenIdentifier>
+			<Abstract type="html">Forces a default gravatar, whether or not email has gravatar.  Remember to set defaultGravatar too!</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) BOOL forceDefault</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/forceDefault</TokenIdentifier>
+			<Abstract type="html">Forces a default gravatar, whether or not email has gravatar.  Remember to set defaultGravatar too!</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) BOOL forceDefault</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/initWithFrame:andPlaceholder:</TokenIdentifier>
+			<Abstract type="html">Another option to init with a placeholder, so you don&apos;t have to do [_imageView setPlaceholder:].</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithFrame:(id)frame andPlaceholder:(id)placeholder</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>frame</Name>
+					<Abstract type="html">The frame for the imageView.</Abstract>
+				</Parameter><Parameter>
+					<Name>placeholder</Name>
+					<Abstract type="html">The placeholder image.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">A Gravatar imageView.</Abstract></ReturnValue>
+			<Anchor>//api/name/initWithFrame:andPlaceholder:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/forceDefault:withDefaultGravatar:</TokenIdentifier>
+			<Abstract type="html">A substitute to having to do [_imageView setForceDefault:YES]; and setting the default gravatar.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)forceDefault:(id)forceDefault withDefaultGravatar:(id)gravatar</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>forceDefault</Name>
+					<Abstract type="html">Whether or not it should force the default gravatar.</Abstract>
+				</Parameter><Parameter>
+					<Name>gravatar</Name>
+					<Abstract type="html">The type of default gravatar.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/forceDefault:withDefaultGravatar:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/loadGravatar</TokenIdentifier>
+			<Abstract type="html">Loads the gravatar after the required properties have been set.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)loadGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/loadGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/load</TokenIdentifier>
+			<Abstract type="html">Loads the gravatar after the required properties have been set.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)load</Declaration>
+			
+			
+			<Anchor>//api/name/load</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/loadGravatar:</TokenIdentifier>
+			<Abstract type="html">Loads gravatar with completion block.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)loadGravatar:(id)completed</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>completed</Name>
+					<Abstract type="html">The completion block.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/loadGravatar:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/load:</TokenIdentifier>
+			<Abstract type="html">Loads gravatar with completion block.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)load:(id)completed</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>completed</Name>
+					<Abstract type="html">The completion block.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/load:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/refreshGravatar</TokenIdentifier>
+			<Abstract type="html">Refreshes the gravatar, you can set new paramters between loading it and refreshing it.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)refreshGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/refreshGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/refresh</TokenIdentifier>
+			<Abstract type="html">Refreshes the gravatar, you can set new paramters between loading it and refreshing it.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)refresh</Declaration>
+			
+			
+			<Anchor>//api/name/refresh</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

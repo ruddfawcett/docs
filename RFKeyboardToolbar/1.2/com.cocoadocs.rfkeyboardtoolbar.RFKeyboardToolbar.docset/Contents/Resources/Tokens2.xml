@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFToolbarButton.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFToolbarButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFToolbarButton.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFToolbarButton/buttonWithTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFToolbarButton.h</DeclaredIn>
+			
+			<Declaration>+ (instancetype)buttonWithTitle:(NSString *)title</Declaration>
+			
+			
+			<Anchor>//api/name/buttonWithTitle:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFToolbarButton/addEventHandler:forControlEvents:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFToolbarButton.h</DeclaredIn>
+			
+			<Declaration>- (void)addEventHandler:(eventHandlerBlock)eventHandler forControlEvents:(UIControlEvents)controlEvent</Declaration>
+			
+			
+			<Anchor>//api/name/addEventHandler:forControlEvents:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

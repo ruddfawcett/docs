@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ASBatteryViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ASBatteryViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.h</DeclaredIn>
+            
+			
+			<NodeRef refid="3"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/viewDidLoad</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (void)viewDidLoad</Declaration>
+			
+			
+			<Anchor>//api/name/viewDidLoad</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/didReceiveMemoryWarning</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (void)didReceiveMemoryWarning</Declaration>
+			
+			
+			<Anchor>//api/name/didReceiveMemoryWarning</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/numberOfSectionsInTableView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfSectionsInTableView:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/tableView:numberOfRowsInSection:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:numberOfRowsInSection:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/tableView:titleForHeaderInSection:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:titleForHeaderInSection:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/tableView:cellForRowAtIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:cellForRowAtIndexPath:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/toggleBatteryMonitoring</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (IBAction)toggleBatteryMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/toggleBatteryMonitoring</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/batteryMonitor:didChangeBatteryState:</TokenIdentifier>
+			<Abstract type="html">Detects if the battery state has changed for the current device ([UIDevice currentDevice]).</Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (void)batteryMonitor:(ASBatteryMonitor *)batteryMonitor didChangeBatteryState:(UIDeviceBatteryState)state</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>batteryMonitor</Name>
+					<Abstract type="html">An ASBatteryMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>state</Name>
+					<Abstract type="html">The state of the battery: Unknown, Unplugged, Charging, Full.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/batteryMonitor:didChangeBatteryState:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/batteryMonitor:didChangeBatteryLevel:</TokenIdentifier>
+			<Abstract type="html">Detects if the battery level (percentage) has changed for the current device.</Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>- (void)batteryMonitor:(ASBatteryMonitor *)batteryMonitor didChangeBatteryLevel:(CGFloat)level</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>batteryMonitor</Name>
+					<Abstract type="html">An ASBatteryMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>level</Name>
+					<Abstract type="html">The percentage of the battery level in raw form.  Ex. 0.3</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/batteryMonitor:didChangeBatteryLevel:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/setBatteryMonitor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASBatteryMonitor *batteryMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/batteryMonitor</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryViewController/batteryMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASBatteryMonitor *batteryMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/batteryMonitor</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryViewController/batteryMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryViewController.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASBatteryMonitor *batteryMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/batteryMonitor</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

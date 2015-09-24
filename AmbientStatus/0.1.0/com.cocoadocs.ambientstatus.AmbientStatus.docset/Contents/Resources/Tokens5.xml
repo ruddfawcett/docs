@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ASTransitMonitor.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ASTransitMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+            
+			
+			<NodeRef refid="5"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setState:</TokenIdentifier>
+			<Abstract type="html">@property state The transit state of the user.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) ASTransitState state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/state</TokenIdentifier>
+			<Abstract type="html">@property state The transit state of the user.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) ASTransitState state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/state</TokenIdentifier>
+			<Abstract type="html">@property state The transit state of the user.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) ASTransitState state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setAcceleration:</TokenIdentifier>
+			<Abstract type="html">@property acceleration The acceleration at which the user is shaking the device.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CMAcceleration acceleration</Declaration>
+			
+			
+			<Anchor>//api/name/acceleration</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/acceleration</TokenIdentifier>
+			<Abstract type="html">@property acceleration The acceleration at which the user is shaking the device.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CMAcceleration acceleration</Declaration>
+			
+			
+			<Anchor>//api/name/acceleration</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/acceleration</TokenIdentifier>
+			<Abstract type="html">@property acceleration The acceleration at which the user is shaking the device.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CMAcceleration acceleration</Declaration>
+			
+			
+			<Anchor>//api/name/acceleration</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setSpeed:</TokenIdentifier>
+			<Abstract type="html">@property speed The current speed of the user in meters per second.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CGFloat speed</Declaration>
+			
+			
+			<Anchor>//api/name/speed</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/speed</TokenIdentifier>
+			<Abstract type="html">@property speed The current speed of the user in meters per second.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CGFloat speed</Declaration>
+			
+			
+			<Anchor>//api/name/speed</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/speed</TokenIdentifier>
+			<Abstract type="html">@property speed The current speed of the user in meters per second.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CGFloat speed</Declaration>
+			
+			
+			<Anchor>//api/name/speed</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setStationary:</TokenIdentifier>
+			<Abstract type="html">The following readonly properties add getters to an ASTransitMonitor object.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isStationary) BOOL stationary</Declaration>
+			
+			
+			<Anchor>//api/name/stationary</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/isStationary</TokenIdentifier>
+			<Abstract type="html">The following readonly properties add getters to an ASTransitMonitor object.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isStationary) BOOL stationary</Declaration>
+			
+			
+			<Anchor>//api/name/stationary</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/stationary</TokenIdentifier>
+			<Abstract type="html">The following readonly properties add getters to an ASTransitMonitor object.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isStationary) BOOL stationary</Declaration>
+			
+			
+			<Anchor>//api/name/stationary</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setWalking:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isWalking) BOOL walking</Declaration>
+			
+			
+			<Anchor>//api/name/walking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/isWalking</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isWalking) BOOL walking</Declaration>
+			
+			
+			<Anchor>//api/name/walking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/walking</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isWalking) BOOL walking</Declaration>
+			
+			
+			<Anchor>//api/name/walking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setRunning:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isRunning) BOOL running</Declaration>
+			
+			
+			<Anchor>//api/name/running</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/isRunning</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isRunning) BOOL running</Declaration>
+			
+			
+			<Anchor>//api/name/running</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/running</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isRunning) BOOL running</Declaration>
+			
+			
+			<Anchor>//api/name/running</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setDriving:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isDriving) BOOL driving</Declaration>
+			
+			
+			<Anchor>//api/name/driving</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/isDriving</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isDriving) BOOL driving</Declaration>
+			
+			
+			<Anchor>//api/name/driving</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/driving</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isDriving) BOOL driving</Declaration>
+			
+			
+			<Anchor>//api/name/driving</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMonitoring:</TokenIdentifier>
+			<Abstract type="html">@property monitoring Tells you if ASBatteryMonitor is currently listening for changes in battery
+state and level.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/isMonitoring</TokenIdentifier>
+			<Abstract type="html">@property monitoring Tells you if ASBatteryMonitor is currently listening for changes in battery
+state and level.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/monitoring</TokenIdentifier>
+			<Abstract type="html">@property monitoring Tells you if ASBatteryMonitor is currently listening for changes in battery
+state and level.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setShaking:</TokenIdentifier>
+			<Abstract type="html">@property shaking Tells you if the device is being shaken.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isShaking) BOOL shaking</Declaration>
+			
+			
+			<Anchor>//api/name/shaking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/isShaking</TokenIdentifier>
+			<Abstract type="html">@property shaking Tells you if the device is being shaken.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isShaking) BOOL shaking</Declaration>
+			
+			
+			<Anchor>//api/name/shaking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/shaking</TokenIdentifier>
+			<Abstract type="html">@property shaking Tells you if the device is being shaken.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isShaking) BOOL shaking</Declaration>
+			
+			
+			<Anchor>//api/name/shaking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/set_0:</TokenIdentifier>
+			<Abstract type="html">@property useM7IfAvailable</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) BOOL useM7IfAvailable NS_AVAILABLE_IOS ( 7 _0</Declaration>
+			
+			
+			<Anchor>//api/name/_0</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/_0</TokenIdentifier>
+			<Abstract type="html">@property useM7IfAvailable</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) BOOL useM7IfAvailable NS_AVAILABLE_IOS ( 7 _0</Declaration>
+			
+			
+			<Anchor>//api/name/_0</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/_0</TokenIdentifier>
+			<Abstract type="html">@property useM7IfAvailable</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) BOOL useM7IfAvailable NS_AVAILABLE_IOS ( 7 _0</Declaration>
+			
+			
+			<Anchor>//api/name/_0</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setDelegate:</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon transit state being changed.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (weak, nonatomic) id&lt;ASTransitMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/delegate</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon transit state being changed.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (weak, nonatomic) id&lt;ASTransitMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/delegate</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon transit state being changed.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (weak, nonatomic) id&lt;ASTransitMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/startMonitoring</TokenIdentifier>
+			<Abstract type="html">Starts the monitoring of the transit status.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)startMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/startMonitoring</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/stopMonitoring</TokenIdentifier>
+			<Abstract type="html">Stops the monitoring of the transit status.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)stopMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/stopMonitoring</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/toggleMonitoring</TokenIdentifier>
+			<Abstract type="html">Toggles the monitoring of the transit status.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/toggleMonitoring</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMinimumSpeed:</TokenIdentifier>
+			<Abstract type="html">The minimum speed value less than which will be considered as stationary state.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)setMinimumSpeed:(CGFloat)speed</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>speed</Name>
+					<Abstract type="html">The minimum speed value less than which will be considered as stationary state.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/setMinimumSpeed:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMaximumWalkingSpeed:</TokenIdentifier>
+			<Abstract type="html">The maximum speed value more than which will be considered as running state.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)setMaximumWalkingSpeed:(CGFloat)speed</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>speed</Name>
+					<Abstract type="html">The maximum speed value more than which will be considered as running state.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/setMaximumWalkingSpeed:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMaximumRunningSpeed:</TokenIdentifier>
+			<Abstract type="html">The maximum speed value more than which will be considered as automotive state.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)setMaximumRunningSpeed:(CGFloat)speed</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>speed</Name>
+					<Abstract type="html">The maximum speed value more than which will be considered as automotive state.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/setMaximumRunningSpeed:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMinimumRunningAcceleration:</TokenIdentifier>
+			<Abstract type="html">The minimum acceleration value less than which will be considered as non shaking state.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)setMinimumRunningAcceleration:(CGFloat)acceleration</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>acceleration</Name>
+					<Abstract type="html">The minimum acceleration value less than which will be considered as non shaking state.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/setMinimumRunningAcceleration:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/currentSpeedAsUnit:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>- (CGFloat)currentSpeedAsUnit:(ASUnitType)unitType</Declaration>
+			
+			
+			<Anchor>//api/name/currentSpeedAsUnit:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/ASTransitMonitor/sharedInstance</TokenIdentifier>
+			<Abstract type="html">ASTransitMonitor singleton.</Abstract>
+			<DeclaredIn>ASTransitMonitor.h</DeclaredIn>
+			
+			<Declaration>+ (ASTransitMonitor *)sharedInstance</Declaration>
+			
+			<ReturnValue><Abstract type="html">ASTransitMonitor object as a singleton.</Abstract></ReturnValue>
+			<Anchor>//api/name/sharedInstance</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/init</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/calculateTransitState</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)calculateTransitState</Declaration>
+			
+			
+			<Anchor>//api/name/calculateTransitState</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/resetTransitStates</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)resetTransitStates</Declaration>
+			
+			
+			<Anchor>//api/name/resetTransitStates</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/detectShaking</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)detectShaking</Declaration>
+			
+			
+			<Anchor>//api/name/detectShaking</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/handleLocationChangedNotification:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)handleLocationChangedNotification:(NSNotification *)notification</Declaration>
+			
+			
+			<Anchor>//api/name/handleLocationChangedNotification:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setShakeDetectingTimer:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) NSTimer *shakeDetectingTimer</Declaration>
+			
+			
+			<Anchor>//api/name/shakeDetectingTimer</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/shakeDetectingTimer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) NSTimer *shakeDetectingTimer</Declaration>
+			
+			
+			<Anchor>//api/name/shakeDetectingTimer</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/shakeDetectingTimer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) NSTimer *shakeDetectingTimer</Declaration>
+			
+			
+			<Anchor>//api/name/shakeDetectingTimer</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setCurrentLocation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CLLocation *currentLocation</Declaration>
+			
+			
+			<Anchor>//api/name/currentLocation</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/currentLocation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CLLocation *currentLocation</Declaration>
+			
+			
+			<Anchor>//api/name/currentLocation</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/currentLocation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CLLocation *currentLocation</Declaration>
+			
+			
+			<Anchor>//api/name/currentLocation</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setPreviousTransitState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) ASTransitState previousTransitState</Declaration>
+			
+			
+			<Anchor>//api/name/previousTransitState</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/previousTransitState</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) ASTransitState previousTransitState</Declaration>
+			
+			
+			<Anchor>//api/name/previousTransitState</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/previousTransitState</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) ASTransitState previousTransitState</Declaration>
+			
+			
+			<Anchor>//api/name/previousTransitState</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMotionManager:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CMMotionManager *motionManager</Declaration>
+			
+			
+			<Anchor>//api/name/motionManager</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/motionManager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CMMotionManager *motionManager</Declaration>
+			
+			
+			<Anchor>//api/name/motionManager</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/motionManager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CMMotionManager *motionManager</Declaration>
+			
+			
+			<Anchor>//api/name/motionManager</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/setMotionActivityManager:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CMMotionActivityManager *motionActivityManager</Declaration>
+			
+			
+			<Anchor>//api/name/motionActivityManager</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASTransitMonitor/motionActivityManager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CMMotionActivityManager *motionActivityManager</Declaration>
+			
+			
+			<Anchor>//api/name/motionActivityManager</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASTransitMonitor/motionActivityManager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASTransitMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) CMMotionActivityManager *motionActivityManager</Declaration>
+			
+			
+			<Anchor>//api/name/motionActivityManager</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFTapEditLabel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFTapEditLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setTextField:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) UITextField *textField</Declaration>
+			
+			
+			<Anchor>//api/name/textField</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/textField</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) UITextField *textField</Declaration>
+			
+			
+			<Anchor>//api/name/textField</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditLabel/textField</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) UITextField *textField</Declaration>
+			
+			
+			<Anchor>//api/name/textField</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setLabelText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSString *labelText</Declaration>
+			
+			
+			<Anchor>//api/name/labelText</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/labelText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSString *labelText</Declaration>
+			
+			
+			<Anchor>//api/name/labelText</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditLabel/labelText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSString *labelText</Declaration>
+			
+			
+			<Anchor>//api/name/labelText</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setPlaceholderText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSString *placeholderText</Declaration>
+			
+			
+			<Anchor>//api/name/placeholderText</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/placeholderText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSString *placeholderText</Declaration>
+			
+			
+			<Anchor>//api/name/placeholderText</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditLabel/placeholderText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSString *placeholderText</Declaration>
+			
+			
+			<Anchor>//api/name/placeholderText</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setIsMasked:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL isMasked</Declaration>
+			
+			
+			<Anchor>//api/name/isMasked</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/isMasked</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL isMasked</Declaration>
+			
+			
+			<Anchor>//api/name/isMasked</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditLabel/isMasked</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL isMasked</Declaration>
+			
+			
+			<Anchor>//api/name/isMasked</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setIsEditable:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL isEditable</Declaration>
+			
+			
+			<Anchor>//api/name/isEditable</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/isEditable</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL isEditable</Declaration>
+			
+			
+			<Anchor>//api/name/isEditable</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditLabel/isEditable</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL isEditable</Declaration>
+			
+			
+			<Anchor>//api/name/isEditable</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setMaskLength:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSUInteger maskLength</Declaration>
+			
+			
+			<Anchor>//api/name/maskLength</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/maskLength</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSUInteger maskLength</Declaration>
+			
+			
+			<Anchor>//api/name/maskLength</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditLabel/maskLength</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) NSUInteger maskLength</Declaration>
+			
+			
+			<Anchor>//api/name/maskLength</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/initWithFrame:secureTextEntry:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame secureTextEntry:(BOOL)secureTextEntry</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:secureTextEntry:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/initWithCoder:AndSecureTextEntry:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithCoder:(NSCoder *)aDecoder AndSecureTextEntry:(BOOL)secureTextEntry</Declaration>
+			
+			
+			<Anchor>//api/name/initWithCoder:AndSecureTextEntry:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/simulateTap</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)simulateTap</Declaration>
+			
+			
+			<Anchor>//api/name/simulateTap</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/toggleEditable</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleEditable</Declaration>
+			
+			
+			<Anchor>//api/name/toggleEditable</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setEditable:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)setEditable:(BOOL)editable</Declaration>
+			
+			
+			<Anchor>//api/name/setEditable:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setLabelTextCustom:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)setLabelTextCustom:(NSString *)labelText</Declaration>
+			
+			
+			<Anchor>//api/name/setLabelTextCustom:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setPlaceholderText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)setPlaceholderText:(NSString *)placeholderText</Declaration>
+			
+			
+			<Anchor>//api/name/setPlaceholderText:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/toggleMask</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleMask</Declaration>
+			
+			
+			<Anchor>//api/name/toggleMask</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/toggleMaskForTime:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleMaskForTime:(NSTimeInterval)time</Declaration>
+			
+			
+			<Anchor>//api/name/toggleMaskForTime:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/toggleMaskForTime:onToggle:completion:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleMaskForTime:(NSTimeInterval)time onToggle:(void ( ^ ) ( void ))whileToggled completion:(void ( ^ ) ( void ))completionBlock</Declaration>
+			
+			
+			<Anchor>//api/name/toggleMaskForTime:onToggle:completion:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/setMaskWithLength:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (void)setMaskWithLength:(NSUInteger)maskLength</Declaration>
+			
+			
+			<Anchor>//api/name/setMaskWithLength:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditLabel/maskString:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditLabel.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)maskString:(NSUInteger)maskLength</Declaration>
+			
+			
+			<Anchor>//api/name/maskString:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

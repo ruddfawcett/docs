@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ASLocationMonitor.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ASLocationMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+            
+			
+			<NodeRef refid="4"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setLocationsToMonitor:</TokenIdentifier>
+			<Abstract type="html">@property locationsToMonitor The locations to watch out for and monitor</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSMutableArray *locationsToMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/locationsToMonitor</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/locationsToMonitor</TokenIdentifier>
+			<Abstract type="html">@property locationsToMonitor The locations to watch out for and monitor</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSMutableArray *locationsToMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/locationsToMonitor</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/locationsToMonitor</TokenIdentifier>
+			<Abstract type="html">@property locationsToMonitor The locations to watch out for and monitor</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSMutableArray *locationsToMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/locationsToMonitor</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setLastLocation:</TokenIdentifier>
+			<Abstract type="html">@property lastLocation The last location of the user.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CLLocation *lastLocation</Declaration>
+			
+			
+			<Anchor>//api/name/lastLocation</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/lastLocation</TokenIdentifier>
+			<Abstract type="html">@property lastLocation The last location of the user.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CLLocation *lastLocation</Declaration>
+			
+			
+			<Anchor>//api/name/lastLocation</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/lastLocation</TokenIdentifier>
+			<Abstract type="html">@property lastLocation The last location of the user.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CLLocation *lastLocation</Declaration>
+			
+			
+			<Anchor>//api/name/lastLocation</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setLastCoordinate:</TokenIdentifier>
+			<Abstract type="html">@property lastCoordinate The last coordinate of the user, taken from the last location.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CLLocationCoordinate2D lastCoordinate</Declaration>
+			
+			
+			<Anchor>//api/name/lastCoordinate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/lastCoordinate</TokenIdentifier>
+			<Abstract type="html">@property lastCoordinate The last coordinate of the user, taken from the last location.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CLLocationCoordinate2D lastCoordinate</Declaration>
+			
+			
+			<Anchor>//api/name/lastCoordinate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/lastCoordinate</TokenIdentifier>
+			<Abstract type="html">@property lastCoordinate The last coordinate of the user, taken from the last location.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CLLocationCoordinate2D lastCoordinate</Declaration>
+			
+			
+			<Anchor>//api/name/lastCoordinate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setMonitoring:</TokenIdentifier>
+			<Abstract type="html">@property monitoring Whethor or not ASLocationMonitor is currently monitoring.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/isMonitoring</TokenIdentifier>
+			<Abstract type="html">@property monitoring Whethor or not ASLocationMonitor is currently monitoring.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/monitoring</TokenIdentifier>
+			<Abstract type="html">@property monitoring Whethor or not ASLocationMonitor is currently monitoring.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setDelegate:</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon location being changed.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (weak, nonatomic) id&lt;ASLocationMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/delegate</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon location being changed.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (weak, nonatomic) id&lt;ASLocationMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/delegate</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon location being changed.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (weak, nonatomic) id&lt;ASLocationMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/startMonitoring</TokenIdentifier>
+			<Abstract type="html">Starts the monitoring of location.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)startMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/startMonitoring</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/stopMonitoring</TokenIdentifier>
+			<Abstract type="html">Stops the monitoring of the transit status.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)stopMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/stopMonitoring</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/toggleMonitoring</TokenIdentifier>
+			<Abstract type="html">Toggles the monitoring of the transit status.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/toggleMonitoring</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setMaximumRadiusDistance:</TokenIdentifier>
+			<Abstract type="html">The maximum radius distance from a point in order to form &quot;neighborhood.&quot;</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)setMaximumRadiusDistance:(CGFloat)distance</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>distance</Name>
+					<Abstract type="html">The maximum radius distance from a point in order to form &quot;neighborhood.&quot;</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/setMaximumRadiusDistance:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/ASLocationMonitor/sharedInstance</TokenIdentifier>
+			<Abstract type="html">ASLocationMonitor singleton.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>+ (ASLocationMonitor *)sharedInstance</Declaration>
+			
+			<ReturnValue><Abstract type="html">ASLocationMonitor object as a singleton.</Abstract></ReturnValue>
+			<Anchor>//api/name/sharedInstance</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/init</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/checkLocations:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)checkLocations:(NSNotification *)notification</Declaration>
+			
+			
+			<Anchor>//api/name/checkLocations:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/locationManager:didUpdateLocations:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)locationManager:(CLLocationManager *)manager didUpdateLocations:(NSArray *)locations</Declaration>
+			
+			
+			<Anchor>//api/name/locationManager:didUpdateLocations:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/locationManager:didFailWithError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)locationManager:(CLLocationManager *)manager didFailWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/locationManager:didFailWithError:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setLocationManager:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) CLLocationManager *locationManager</Declaration>
+			
+			
+			<Anchor>//api/name/locationManager</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/locationManager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) CLLocationManager *locationManager</Declaration>
+			
+			
+			<Anchor>//api/name/locationManager</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/locationManager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) CLLocationManager *locationManager</Declaration>
+			
+			
+			<Anchor>//api/name/locationManager</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/setEnteringLocations:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) NSMutableArray *enteringLocations</Declaration>
+			
+			
+			<Anchor>//api/name/enteringLocations</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASLocationMonitor/enteringLocations</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) NSMutableArray *enteringLocations</Declaration>
+			
+			
+			<Anchor>//api/name/enteringLocations</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASLocationMonitor/enteringLocations</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) NSMutableArray *enteringLocations</Declaration>
+			
+			
+			<Anchor>//api/name/enteringLocations</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

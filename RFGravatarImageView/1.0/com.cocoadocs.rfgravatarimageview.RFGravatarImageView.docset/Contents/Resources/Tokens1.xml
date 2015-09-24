@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFGravatarImageView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFGravatarImageView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setEmail:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSString *email</Declaration>
+			
+			
+			<Anchor>//api/name/email</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/email</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSString *email</Declaration>
+			
+			
+			<Anchor>//api/name/email</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/email</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) NSString *email</Declaration>
+			
+			
+			<Anchor>//api/name/email</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setPlaceholder:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) UIImage *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/placeholder</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) UIImage *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/placeholder</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, strong, nonatomic) UIImage *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/size</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/size</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setRating:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) GravatarRatings rating</Declaration>
+			
+			
+			<Anchor>//api/name/rating</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/rating</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) GravatarRatings rating</Declaration>
+			
+			
+			<Anchor>//api/name/rating</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/rating</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) GravatarRatings rating</Declaration>
+			
+			
+			<Anchor>//api/name/rating</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setDefaultGravatar:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) DefaultGravatars defaultGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/defaultGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/defaultGravatar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) DefaultGravatars defaultGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/defaultGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/defaultGravatar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) DefaultGravatars defaultGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/defaultGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/setForceDefault:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) BOOL forceDefault</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/forceDefault</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) BOOL forceDefault</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFGravatarImageView/forceDefault</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) BOOL forceDefault</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/initWithFrame:andPlaceholder:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame andPlaceholder:(UIImage *)placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:andPlaceholder:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/forceDefault:withDefaultGravatar:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)forceDefault:(BOOL)forceDefault withDefaultGravatar:(DefaultGravatars)gravatar</Declaration>
+			
+			
+			<Anchor>//api/name/forceDefault:withDefaultGravatar:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/loadGravatar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)loadGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/loadGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/loadGravatar:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)loadGravatar:(void ( ^ ) ( void ))completed</Declaration>
+			
+			
+			<Anchor>//api/name/loadGravatar:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFGravatarImageView/refreshGravatar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+			
+			<Declaration>- (void)refreshGravatar</Declaration>
+			
+			
+			<Anchor>//api/name/refreshGravatar</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFRotate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFRotate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotate90:withDuration:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotate90:(UIView *)view withDuration:(NSTimeInterval)duration</Declaration>
+			
+			
+			<Anchor>//api/name/rotate90:withDuration:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotate180:withDuration:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotate180:(UIView *)view withDuration:(NSTimeInterval)duration</Declaration>
+			
+			
+			<Anchor>//api/name/rotate180:withDuration:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotate:withDuration:andDegrees:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotate:(UIView *)view withDuration:(NSTimeInterval)duration andDegrees:(NSInteger)degrees</Declaration>
+			
+			
+			<Anchor>//api/name/rotate:withDuration:andDegrees:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotateWithFlex:withDuration:andDegrees:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotateWithFlex:(UIView *)view withDuration:(NSTimeInterval)duration andDegrees:(NSInteger)degrees</Declaration>
+			
+			
+			<Anchor>//api/name/rotateWithFlex:withDuration:andDegrees:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotate90:withDuration:andBlock:andCompletion:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotate90:(UIView *)view withDuration:(NSTimeInterval)duration andBlock:(void ( ^ ) ( void ))block andCompletion:(void ( ^ ) ( void ))completion</Declaration>
+			
+			
+			<Anchor>//api/name/rotate90:withDuration:andBlock:andCompletion:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotate180:withDuration:andBlock:andCompletion:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotate180:(UIView *)view withDuration:(NSTimeInterval)duration andBlock:(void ( ^ ) ( void ))block andCompletion:(void ( ^ ) ( void ))completion</Declaration>
+			
+			
+			<Anchor>//api/name/rotate180:withDuration:andBlock:andCompletion:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotate:withDuration:andDegrees:andBlock:andCompletion:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotate:(UIView *)view withDuration:(NSTimeInterval)duration andDegrees:(NSInteger)degrees andBlock:(void ( ^ ) ( void ))block andCompletion:(void ( ^ ) ( void ))completion</Declaration>
+			
+			
+			<Anchor>//api/name/rotate:withDuration:andDegrees:andBlock:andCompletion:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFRotate/rotateWithFlex:withDuration:andDegrees:andBlock:andCompletion:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFRotate.h</DeclaredIn>
+			
+			<Declaration>+ (void)rotateWithFlex:(UIView *)view withDuration:(NSTimeInterval)duration andDegrees:(NSInteger)degrees andBlock:(void ( ^ ) ( void ))block andCompletion:(void ( ^ ) ( void ))completion</Declaration>
+			
+			
+			<Anchor>//api/name/rotateWithFlex:withDuration:andDegrees:andBlock:andCompletion:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

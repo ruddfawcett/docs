@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.cocoadocs.ambientstatus.AmbientStatus</string>
+	<key>CFBundleName</key>
+	<string>AmbientStatus Documentation</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	
+	
+	
+	<key>DocSetFallbackURL</key>
+	<string>http://cocoadocs.org/docsets/AmbientStatus</string>
+	<key>DocSetFeedName</key>
+	<string>AmbientStatus</string>
+	<key>DocSetFeedURL</key>
+	<string>http://cocoadocs.org/docsets/AmbientStatus/xcode-docset.atom</string>
+	<key>DocSetMinimumXcodeVersion</key>
+	<string>3.0</string>
+	
+	<key>DashDocSetFamily</key>
+	<string>appledoc</string>
+	<key>DocSetPublisherIdentifier</key>
+	<string>com.cocoadocs.ambientstatus.documentation</string>
+	<key>DocSetPublisherName</key>
+	<string>Rudd Fawcett</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2014 Rudd Fawcett. All rights reserved.</string>
+</dict>
+</plist>

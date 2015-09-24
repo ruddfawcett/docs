@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFMarkdownSyntaxStorage.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFMarkdownSyntaxStorage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMarkdownSyntaxStorage.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMarkdownSyntaxStorage/update</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMarkdownSyntaxStorage.h</DeclaredIn>
+			
+			<Declaration>- (void)update</Declaration>
+			
+			
+			<Anchor>//api/name/update</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

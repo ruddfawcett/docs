@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/RFDefaultGravatar.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/RFDefaultGravatar</TokenIdentifier>
+			<Abstract type="html">Default Gravatar types: http://bit.ly/1cCmtdb</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarNone</TokenIdentifier>
+            <Abstract type="html">No default Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatarNone</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatar404</TokenIdentifier>
+            <Abstract type="html">404 Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatar404</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarMysteryMan</TokenIdentifier>
+            <Abstract type="html">Myster Man Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatarMysteryMan</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarIdenticon</TokenIdentifier>
+            <Abstract type="html">Identicon Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatarIdenticon</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarMonsterID</TokenIdentifier>
+            <Abstract type="html">Monster ID Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatarMonsterID</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarWavatar</TokenIdentifier>
+            <Abstract type="html">Wavatar Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatarWavatar</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarRetro</TokenIdentifier>
+            <Abstract type="html">Retro Gravatar
+     </Abstract>
+            <Declaration>RFDefaultGravatarRetro</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFDefaultGravatarBlank</TokenIdentifier>
+            <Abstract type="html">Blank Gravatar.
+     </Abstract>
+            <Declaration>RFDefaultGravatarBlank</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="2"/>
+        </Token>
+        
+	</File>
+</Tokens>

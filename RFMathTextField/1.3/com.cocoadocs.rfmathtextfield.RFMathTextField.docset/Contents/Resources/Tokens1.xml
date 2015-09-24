@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFMathTextField.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFMathTextField</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/setEquationAnswer:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSInteger equationAnswer</Declaration>
+			
+			
+			<Anchor>//api/name/equationAnswer</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/equationAnswer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSInteger equationAnswer</Declaration>
+			
+			
+			<Anchor>//api/name/equationAnswer</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFMathTextField/equationAnswer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) NSInteger equationAnswer</Declaration>
+			
+			
+			<Anchor>//api/name/equationAnswer</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/setAnswerCorrect:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL answerCorrect</Declaration>
+			
+			
+			<Anchor>//api/name/answerCorrect</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/answerCorrect</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL answerCorrect</Declaration>
+			
+			
+			<Anchor>//api/name/answerCorrect</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFMathTextField/answerCorrect</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readwrite) BOOL answerCorrect</Declaration>
+			
+			
+			<Anchor>//api/name/answerCorrect</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/initWithFrame:withEquation:andNotification:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame withEquation:(RFMathTextFieldEquationTypes)equationType andNotification:(NSString *)notification</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:withEquation:andNotification:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/initWithFrame:withEquation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame withEquation:(RFMathTextFieldEquationTypes)equationType</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:withEquation:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFMathTextField/refreshEquation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMathTextField.h</DeclaredIn>
+			
+			<Declaration>- (void)refreshEquation</Declaration>
+			
+			
+			<Anchor>//api/name/refreshEquation</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

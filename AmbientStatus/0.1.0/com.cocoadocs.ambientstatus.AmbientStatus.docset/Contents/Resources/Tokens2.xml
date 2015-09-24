@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ASBatteryMonitor.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ASBatteryMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setFull:</TokenIdentifier>
+			<Abstract type="html">The following readonly properties add getters to an ASBatteryMonitor object:</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isFull) BOOL full</Declaration>
+			
+			
+			<Anchor>//api/name/full</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/isFull</TokenIdentifier>
+			<Abstract type="html">The following readonly properties add getters to an ASBatteryMonitor object:</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isFull) BOOL full</Declaration>
+			
+			
+			<Anchor>//api/name/full</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/full</TokenIdentifier>
+			<Abstract type="html">The following readonly properties add getters to an ASBatteryMonitor object:</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isFull) BOOL full</Declaration>
+			
+			
+			<Anchor>//api/name/full</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setCharging:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isCharging) BOOL charging</Declaration>
+			
+			
+			<Anchor>//api/name/charging</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/isCharging</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isCharging) BOOL charging</Declaration>
+			
+			
+			<Anchor>//api/name/charging</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/charging</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isCharging) BOOL charging</Declaration>
+			
+			
+			<Anchor>//api/name/charging</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setUnplugged:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isUnplugged) BOOL unplugged</Declaration>
+			
+			
+			<Anchor>//api/name/unplugged</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/isUnplugged</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isUnplugged) BOOL unplugged</Declaration>
+			
+			
+			<Anchor>//api/name/unplugged</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/unplugged</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isUnplugged) BOOL unplugged</Declaration>
+			
+			
+			<Anchor>//api/name/unplugged</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setUnknown:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isUnknown) BOOL unknown</Declaration>
+			
+			
+			<Anchor>//api/name/unknown</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/isUnknown</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isUnknown) BOOL unknown</Declaration>
+			
+			
+			<Anchor>//api/name/unknown</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/unknown</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isUnknown) BOOL unknown</Declaration>
+			
+			
+			<Anchor>//api/name/unknown</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setMonitoring:</TokenIdentifier>
+			<Abstract type="html">@property monitoring Tells you if ASBatteryMonitor is currently listening for changes in battery
+state and level.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/isMonitoring</TokenIdentifier>
+			<Abstract type="html">@property monitoring Tells you if ASBatteryMonitor is currently listening for changes in battery
+state and level.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/monitoring</TokenIdentifier>
+			<Abstract type="html">@property monitoring Tells you if ASBatteryMonitor is currently listening for changes in battery
+state and level.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic, getter=isMonitoring) BOOL monitoring</Declaration>
+			
+			
+			<Anchor>//api/name/monitoring</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setState:</TokenIdentifier>
+			<Abstract type="html">@property state The state of the battery in raw UIDeviceBatteryState form.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) UIDeviceBatteryState state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/state</TokenIdentifier>
+			<Abstract type="html">@property state The state of the battery in raw UIDeviceBatteryState form.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) UIDeviceBatteryState state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/state</TokenIdentifier>
+			<Abstract type="html">@property state The state of the battery in raw UIDeviceBatteryState form.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) UIDeviceBatteryState state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setPercentage:</TokenIdentifier>
+			<Abstract type="html">@property percentage The percentage of the battery as a CGFloat.  0.3 (CGFloat - what you get) not 30% (NSString).</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CGFloat percentage</Declaration>
+			
+			
+			<Anchor>//api/name/percentage</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/percentage</TokenIdentifier>
+			<Abstract type="html">@property percentage The percentage of the battery as a CGFloat.  0.3 (CGFloat - what you get) not 30% (NSString).</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CGFloat percentage</Declaration>
+			
+			
+			<Anchor>//api/name/percentage</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/percentage</TokenIdentifier>
+			<Abstract type="html">@property percentage The percentage of the battery as a CGFloat.  0.3 (CGFloat - what you get) not 30% (NSString).</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (readonly, nonatomic) CGFloat percentage</Declaration>
+			
+			
+			<Anchor>//api/name/percentage</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/setDelegate:</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon battery state being changed.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, weak) id&lt;ASBatteryMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/delegate</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon battery state being changed.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, weak) id&lt;ASBatteryMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASBatteryMonitor/delegate</TokenIdentifier>
+			<Abstract type="html">@property delegate The delegate which allows you to run your own methods upon battery state being changed.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, weak) id&lt;ASBatteryMonitorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/startMonitoring</TokenIdentifier>
+			<Abstract type="html">Starts the monitoring of the battery.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)startMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/startMonitoring</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/stopMonitoring</TokenIdentifier>
+			<Abstract type="html">Stops the monitoring of the battery.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)stopMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/stopMonitoring</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/toggleMonitoring</TokenIdentifier>
+			<Abstract type="html">Toggles the monitoring of the battery.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)toggleMonitoring</Declaration>
+			
+			
+			<Anchor>//api/name/toggleMonitoring</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/ASBatteryMonitor/sharedInstance</TokenIdentifier>
+			<Abstract type="html">ASBatteryMonitor singleton.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>+ (ASBatteryMonitor *)sharedInstance</Declaration>
+			
+			<ReturnValue><Abstract type="html">ASBatteryMonitor object as a singleton.</Abstract></ReturnValue>
+			<Anchor>//api/name/sharedInstance</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/batteryLevelDidChange:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)batteryLevelDidChange:(NSNotification *)notification</Declaration>
+			
+			
+			<Anchor>//api/name/batteryLevelDidChange:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/batteryStateDidChange:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)batteryStateDidChange:(NSNotification *)notification</Declaration>
+			
+			
+			<Anchor>//api/name/batteryStateDidChange:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/updateBatteryLevel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)updateBatteryLevel</Declaration>
+			
+			
+			<Anchor>//api/name/updateBatteryLevel</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/updateBatteryState</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)updateBatteryState</Declaration>
+			
+			
+			<Anchor>//api/name/updateBatteryState</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASBatteryMonitor/resetBatteryStates</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.m</DeclaredIn>
+			
+			<Declaration>- (void)resetBatteryStates</Declaration>
+			
+			
+			<Anchor>//api/name/resetBatteryStates</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

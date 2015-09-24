@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/ASBatteryMonitorDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/ASBatteryMonitorDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+            
+			
+			<NodeRef refid="14"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASBatteryMonitorDelegate/batteryMonitor:didChangeBatteryState:</TokenIdentifier>
+			<Abstract type="html">Detects if the battery state has changed for the current device ([UIDevice currentDevice]).</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)batteryMonitor:(ASBatteryMonitor *)batteryMonitor didChangeBatteryState:(UIDeviceBatteryState)state</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>batteryMonitor</Name>
+					<Abstract type="html">An ASBatteryMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>state</Name>
+					<Abstract type="html">The state of the battery: Unknown, Unplugged, Charging, Full.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/batteryMonitor:didChangeBatteryState:</Anchor>
+            <NodeRef refid="14"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASBatteryMonitorDelegate/batteryMonitor:didChangeBatteryLevel:</TokenIdentifier>
+			<Abstract type="html">Detects if the battery level (percentage) has changed for the current device.</Abstract>
+			<DeclaredIn>ASBatteryMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)batteryMonitor:(ASBatteryMonitor *)batteryMonitor didChangeBatteryLevel:(CGFloat)level</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>batteryMonitor</Name>
+					<Abstract type="html">An ASBatteryMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>level</Name>
+					<Abstract type="html">The percentage of the battery level in raw form.  Ex. 0.3</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/batteryMonitor:didChangeBatteryLevel:</Anchor>
+            <NodeRef refid="14"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

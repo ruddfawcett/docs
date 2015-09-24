@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFKeyboardToolbar.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFKeyboardToolbar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFKeyboardToolbar/setButtons:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *buttons</Declaration>
+			
+			
+			<Anchor>//api/name/buttons</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFKeyboardToolbar/buttons</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *buttons</Declaration>
+			
+			
+			<Anchor>//api/name/buttons</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFKeyboardToolbar/buttons</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) NSArray *buttons</Declaration>
+			
+			
+			<Anchor>//api/name/buttons</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/RFKeyboardToolbar/toolbarViewWithButtons:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>+ (instancetype)toolbarViewWithButtons:(NSArray *)buttons</Declaration>
+			
+			
+			<Anchor>//api/name/toolbarViewWithButtons:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFKeyboardToolbar/setButtons:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFKeyboardToolbar.h</DeclaredIn>
+			
+			<Declaration>- (void)setButtons:(NSArray *)buttons animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/setButtons:animated:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/ASLocationMonitorDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/ASLocationMonitorDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASLocationMonitorDelegate/locationMonitor:didEnterNeighborhood:</TokenIdentifier>
+			<Abstract type="html">Detects if a user has entered a location&apos;s neighborhood (has entered within radius of).</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)locationMonitor:(ASLocationMonitor *)locationMonitor didEnterNeighborhood:(CLLocation *)location</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>locationMonitor</Name>
+					<Abstract type="html">An ASLocationMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>location</Name>
+					<Abstract type="html">The location from which the radius is calculated.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/locationMonitor:didEnterNeighborhood:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASLocationMonitorDelegate/locationMonitor:didExitNeighborhood:</TokenIdentifier>
+			<Abstract type="html">If the user had previously entered a radius of a location, this method will be called when they exit it.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)locationMonitor:(ASLocationMonitor *)locationMonitor didExitNeighborhood:(CLLocation *)location</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>locationMonitor</Name>
+					<Abstract type="html">An ASLocationMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>location</Name>
+					<Abstract type="html">The location from which the radius is calculated.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/locationMonitor:didExitNeighborhood:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASLocationMonitorDelegate/locationMonitor:didEnterNeighborhoods:</TokenIdentifier>
+			<Abstract type="html">Detects if a user has entered locations&apos; neighborhoods (has entered within radius of).</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)locationMonitor:(ASLocationMonitor *)locationMonitor didEnterNeighborhoods:(NSArray *)locations</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>locationMonitor</Name>
+					<Abstract type="html">An ASLocationMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>location</Name>
+					<Abstract type="html">The location from which the radii are calculated.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/locationMonitor:didEnterNeighborhoods:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/ASLocationMonitorDelegate/locationMonitor:didExitNeighborhoods:</TokenIdentifier>
+			<Abstract type="html">If the user had previously entered a radius of a location, this method will be called when they exit them.</Abstract>
+			<DeclaredIn>ASLocationMonitor.h</DeclaredIn>
+			
+			<Declaration>- (void)locationMonitor:(ASLocationMonitor *)locationMonitor didExitNeighborhoods:(NSArray *)locations</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>locationMonitor</Name>
+					<Abstract type="html">An ASLocationMonitor object.</Abstract>
+				</Parameter><Parameter>
+					<Name>locations</Name>
+					<Abstract type="html">The locations from which the radii are calculated.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/locationMonitor:didExitNeighborhoods:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

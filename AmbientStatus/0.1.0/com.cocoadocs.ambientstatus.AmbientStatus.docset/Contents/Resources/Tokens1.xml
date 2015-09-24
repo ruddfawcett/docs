@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ASAppDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ASAppDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/setWindow:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.h</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) UIWindow *window</Declaration>
+			
+			
+			<Anchor>//api/name/window</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/window</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.h</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) UIWindow *window</Declaration>
+			
+			
+			<Anchor>//api/name/window</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASAppDelegate/window</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.h</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) UIWindow *window</Declaration>
+			
+			
+			<Anchor>//api/name/window</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/application:didFinishLaunchingWithOptions:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions</Declaration>
+			
+			
+			<Anchor>//api/name/application:didFinishLaunchingWithOptions:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/application:willFinishLaunchingWithOptions:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>- (BOOL)application:(UIApplication *)application willFinishLaunchingWithOptions:(NSDictionary *)launchOptions</Declaration>
+			
+			
+			<Anchor>//api/name/application:willFinishLaunchingWithOptions:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/application:performFetchWithCompletionHandler:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>- (void)application:(UIApplication *)application performFetchWithCompletionHandler:(void ( ^ ) ( UIBackgroundFetchResult ))completionHandler</Declaration>
+			
+			
+			<Anchor>//api/name/application:performFetchWithCompletionHandler:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/checkBatteryState</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>- (void)checkBatteryState</Declaration>
+			
+			
+			<Anchor>//api/name/checkBatteryState</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/checkTransitState</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>- (void)checkTransitState</Declaration>
+			
+			
+			<Anchor>//api/name/checkTransitState</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/setBatteryMonitor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASBatteryMonitor *batteryMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/batteryMonitor</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/batteryMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASBatteryMonitor *batteryMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/batteryMonitor</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASAppDelegate/batteryMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASBatteryMonitor *batteryMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/batteryMonitor</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/setTransitMonitor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASTransitMonitor *transitMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/transitMonitor</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/transitMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASTransitMonitor *transitMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/transitMonitor</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASAppDelegate/transitMonitor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASTransitMonitor *transitMonitor</Declaration>
+			
+			
+			<Anchor>//api/name/transitMonitor</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/setViewController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASViewController *viewController</Declaration>
+			
+			
+			<Anchor>//api/name/viewController</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ASAppDelegate/viewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASViewController *viewController</Declaration>
+			
+			
+			<Anchor>//api/name/viewController</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ASAppDelegate/viewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>ASAppDelegate.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) ASViewController *viewController</Declaration>
+			
+			
+			<Anchor>//api/name/viewController</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

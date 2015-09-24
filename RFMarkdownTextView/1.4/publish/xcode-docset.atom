@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:docset="http://developer.apple.com/rss/docset_extensions" xml:lang="en">
+    <id>http://cocoadocs.org/docsets/RFMarkdownTextView/xcode-docset.atom/20141226034710</id>
+    <title type="text">RFMarkdownTextView</title>
+    <rights>Copyright © 2014 Rudd Fawcett. All rights reserved.</rights>
+    <link rel="self" href="http://cocoadocs.org/docsets/RFMarkdownTextView/xcode-docset.atom"></link>
+    <docset:publisherName>Rudd Fawcett</docset:publisherName>
+    <docset:publisherID>com.cocoadocs.rfmarkdowntextview.documentation</docset:publisherID>
+    <updated>2014-12-26T03:47:10-05:00</updated>
+    <entry>
+        <id>tag:cocoadocs.org,2014-12-26:com.cocoadocs.rfmarkdowntextview.RFMarkdownTextView/1.4.0</id>
+        <title type="text">RFMarkdownTextView Documentation</title>
+        <updated>2014-12-26T03:47:10-05:00</updated>
+        <content type="text">RFMarkdownTextView Documentation (v1.4.0)</content>
+        <link rel="enclosure" type="application/octet-stream" href="http://cocoadocs.org/docsets/RFMarkdownTextView/docset.xar" length="64094"></link>
+        <docset:identifier>com.cocoadocs.rfmarkdowntextview.RFMarkdownTextView</docset:identifier>
+        <docset:version>1.4.0</docset:version>
+        <docset:minimumXcodeVersion>3.0.0</docset:minimumXcodeVersion>
+    </entry>
+</feed>

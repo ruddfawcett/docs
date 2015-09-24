@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFTapEditCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFTapEditCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditCell/setTapTextLabel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) RFTapEditLabel *tapTextLabel</Declaration>
+			
+			
+			<Anchor>//api/name/tapTextLabel</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditCell/tapTextLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) RFTapEditLabel *tapTextLabel</Declaration>
+			
+			
+			<Anchor>//api/name/tapTextLabel</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RFTapEditCell/tapTextLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, strong) RFTapEditLabel *tapTextLabel</Declaration>
+			
+			
+			<Anchor>//api/name/tapTextLabel</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditCell/initWithStyle:reuseIdentifier:secureTextEntry:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier secureTextEntry:(BOOL)secureTextEntry</Declaration>
+			
+			
+			<Anchor>//api/name/initWithStyle:reuseIdentifier:secureTextEntry:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditCell/updateTextForMask</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>- (void)updateTextForMask</Declaration>
+			
+			
+			<Anchor>//api/name/updateTextForMask</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditCell/setPlaceholderText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>- (void)setPlaceholderText:(NSString *)placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/setPlaceholderText:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RFTapEditCell/setLabelTextCustom:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFTapEditCell.h</DeclaredIn>
+			
+			<Declaration>- (void)setLabelTextCustom:(NSString *)labelText</Declaration>
+			
+			
+			<Anchor>//api/name/setLabelTextCustom:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

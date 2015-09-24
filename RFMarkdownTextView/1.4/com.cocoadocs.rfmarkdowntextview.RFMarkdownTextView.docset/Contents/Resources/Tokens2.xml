@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RFMarkdownTextView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RFMarkdownTextView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RFMarkdownTextView.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+        
+	</File>
+</Tokens>

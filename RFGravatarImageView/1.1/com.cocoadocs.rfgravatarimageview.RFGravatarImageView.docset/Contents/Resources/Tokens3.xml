@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/RFGravatarRating.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/RFGravatarRating</TokenIdentifier>
+			<Abstract type="html">The rating for the gravatar.</Abstract>
+			<DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+			
+			<NodeRef refid="3"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFGravatarRatingAny</TokenIdentifier>
+            <Abstract type="html"></Abstract>
+            <Declaration>RFGravatarRatingAny</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="3"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFGravatarRatingG</TokenIdentifier>
+            <Abstract type="html">A Gravatar rating of G can be displayed.
+     </Abstract>
+            <Declaration>RFGravatarRatingG</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="3"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFGravatarRatingPG</TokenIdentifier>
+            <Abstract type="html">A Gravatar rating of PG can be displayed.
+     </Abstract>
+            <Declaration>RFGravatarRatingPG</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="3"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFGravatarRatingR</TokenIdentifier>
+            <Abstract type="html">A Gravatar rating of R can be displayed.
+     </Abstract>
+            <Declaration>RFGravatarRatingR</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="3"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/RFGravatarRatingX</TokenIdentifier>
+            <Abstract type="html">A Gravatar rating of X can be displayed.
+     </Abstract>
+            <Declaration>RFGravatarRatingX</Declaration>
+            
+            <DeclaredIn>RFGravatarImageView.h</DeclaredIn>
+            
+            <NodeRef refid="3"/>
+        </Token>
+        
+	</File>
+</Tokens>
